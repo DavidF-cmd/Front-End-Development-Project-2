@@ -21,7 +21,7 @@ This website's intent is to provide an easy to to-do list application
 ## Web links
 
 - **Published application:** https://foobarkeysite.netlify.app
-- **GitHub repository:** https://github.com/DavidF-cmd/Front-End-Development-Project-1
+- **GitHub repository:** https://github.com/DavidF-cmd/Front-End-Development-Project-2/tree/main/Project%202
 - **Project video presentation:** https://youtu.be/_zR8PywZvJo?si=W2FLWd-piZTO-fqs
 
 ## About the application
