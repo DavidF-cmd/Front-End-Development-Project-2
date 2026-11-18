@@ -10,9 +10,8 @@ This website's intent is to provide an easy to to-do list application
 
 ### Planned features
 
-- Creation of a list heading
-- Addition of tasks
-- Restriction parameters
+- Additional pages
+- Track lists appended to each album
 
 ### Wireframe / sketch
 
@@ -58,7 +57,7 @@ Add at least one screenshot of your working application.
 
 Example:
 
-![Screenshot of the application] 
+![Screenshot of the application] Project 2/Code_iYs3CasDGE.jpg
 
 ## Known issues / limitations
 
