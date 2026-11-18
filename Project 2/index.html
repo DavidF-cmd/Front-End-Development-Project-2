@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<HTML lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Workshop 8</title>
+    <link rel="stylesheet" href="styles.css">
+    <!--This is a comment. Comments are not displayed in the browser-->
+    <!--defer waits until the HTML has been read before executing JavaScript.-->
+    <script src="script.js" defer></script>
+</head>
+
+<body class="ws8">
+    <h1>foobar KEY</h1>
+    <hr />
+    <p>Find info on various artists albums using LastFM and musicbrainz ID.</p>
+
+   
+    <p>Select an artist from the list:</p>
+    <select name="mySelect" id="artistMenu" onchange="selectArtist()">
+        <option value="Nirvana">Nirvana</option>
+        <option value="Alice In Chains">Alice In Chains</option>
+        <option value="Post Malone">Post Malone</option>
+        <option value="Drake">Drake</option>
+        <option value="Kanye West">Kanye West</option>
+        <option value="Foo Fighters">Foo Fighters</option>
+        <option value="Patty Smith">Patty Smith</option>
+    </select>
+    <!--This button fetches the album data of the entered artist-->
+    <p>Or enter an artist to find their albums: <input type="text" id="artistSearch" placeholder="Enter artist name"> <button onclick="getTopAlbums(document.getElementById('artistSearch').value)">Search</button>
+    <div id="albumData">Album information will appear here.</div>
+
+    <!--This button fetches the album data of the listed albums-->
+    <button id="fetchAlbum" onclick="getTopAlbums()">Fetch data</button>
+
+</body>
+
+</html>
