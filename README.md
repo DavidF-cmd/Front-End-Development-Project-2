@@ -15,7 +15,7 @@ This website's intent is to provide an easy to to-do list application
 
 ### Wireframe / sketch
 
-![Example Image](wireframe.jpg)
+![Example Image] <img width="904" height="629" alt="Untitled" src="https://github.com/user-attachments/assets/73536597-9beb-47fc-aa43-95e074e02199" />
 
 
 ## Web links
