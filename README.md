@@ -57,7 +57,7 @@ Add at least one screenshot of your working application.
 
 Example:
 
-![Screenshot of the application] Project 2/Code_iYs3CasDGE.jpg
+![Screenshot of the application] <img width="1639" height="906" alt="Code_iYs3CasDGE" src="https://github.com/user-attachments/assets/b5d826c5-738f-48e6-b460-28ea3abc2142" />
 
 ## Known issues / limitations
 
